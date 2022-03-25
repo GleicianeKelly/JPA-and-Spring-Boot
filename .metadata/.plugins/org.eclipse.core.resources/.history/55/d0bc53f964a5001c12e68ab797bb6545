@@ -1,0 +1,5 @@
+package com.gleicianekelly.curso.resources;
+
+public class UserResource {
+
+}

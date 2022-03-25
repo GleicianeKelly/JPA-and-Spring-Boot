@@ -1,0 +1,27 @@
+package com.gleicianekelly.curso.entities;
+
+import com.gleicianekelly.curso.entities.pk.OrdemItemPK;
+
+public class OrdemItem {
+
+	
+	private OrdemItemPK id;
+	
+	private Integer quantity;
+	
+		
+
+	public OrdemItem() {
+		super();
+	}
+
+
+	public OrdemItem(OrdemItemPK id, Integer quantity) {
+		super();
+		this.id = id;
+		this.quantity = quantity;
+	}
+	
+	
+	
+}

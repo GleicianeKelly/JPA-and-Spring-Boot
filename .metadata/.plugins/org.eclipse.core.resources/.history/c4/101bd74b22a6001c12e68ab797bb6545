@@ -1,0 +1,11 @@
+package com.gleicianekelly.curso.services;
+
+import com.gleicianekelly.curso.repositories.UserRepository;
+
+public class UserService {
+
+	@Autowired
+	private UserRepository repository;
+	
+	
+}

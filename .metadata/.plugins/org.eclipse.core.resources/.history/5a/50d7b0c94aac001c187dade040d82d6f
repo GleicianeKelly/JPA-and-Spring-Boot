@@ -1,0 +1,5 @@
+package com.gleicianekelly.curso.resources.exception;
+
+public class StandardError {
+
+}

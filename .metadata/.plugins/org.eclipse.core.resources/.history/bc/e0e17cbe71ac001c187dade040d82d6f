@@ -1,0 +1,5 @@
+package com.gleicianekelly.curso.services.exceptions;
+
+public class DataBaseException {
+
+}

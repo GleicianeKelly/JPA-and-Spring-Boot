@@ -1,0 +1,5 @@
+package com.gleicianekelly.curso.services;
+
+public class UserService {
+
+}

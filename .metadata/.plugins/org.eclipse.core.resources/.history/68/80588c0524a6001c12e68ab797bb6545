@@ -1,0 +1,18 @@
+package com.gleicianekelly.curso.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.gleicianekelly.curso.repositories.UserRepository;
+
+public class UserService {
+
+	@Autowired
+	private UserRepository repository;
+	
+	
+	
+	
+	
+	
+	
+}

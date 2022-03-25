@@ -1,0 +1,5 @@
+package com.gleicianekelly.curso.entities.enums;
+
+public enum OrderStatus {
+
+}

@@ -1,0 +1,5 @@
+package com.gleicianekelly.curso.repositories;
+
+public interface UserRepository {
+
+}

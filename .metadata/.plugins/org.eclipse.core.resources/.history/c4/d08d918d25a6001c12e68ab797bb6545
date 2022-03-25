@@ -1,0 +1,20 @@
+package com.gleicianekelly.curso.services;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.gleicianekelly.curso.entities.User;
+import com.gleicianekelly.curso.repositories.UserRepository;
+
+public class UserService {
+
+	@Autowired
+	private UserRepository repository;
+	
+	
+	public List<User> findAll(){
+		return repository.findAll();
+	}
+	
+}
